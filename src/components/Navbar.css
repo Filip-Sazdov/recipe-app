@@ -7,7 +7,6 @@
 .navbar nav {
   display: flex;
   align-items: center;
-  border: 1px solid red;
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -29,5 +28,6 @@
 
 .navbar a:last-child:hover {
   background: #fff;
-  color: #333;
+  color: #58249c;
+  ;
 }
